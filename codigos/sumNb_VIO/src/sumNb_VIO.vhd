@@ -15,11 +15,10 @@ architecture sumNb_VIO_arq of sumNb_VIO is
 
 	probe_a: std_logic_vector(3 downto 0);
 	probe_b: std_logic_vector(3 downto 0);
-	probe_ci: std_logic_vector(0 downto 0);
 	probe_s: std_logic_vector(3 downto 0);
-	probe_o: std_logic_vector(0 downto 0);
 
-	signal c_aux: std_logic_vector(N downto 0);
+	probe_ci: std_logic_vector(0 downto 0);
+	probe_co: std_logic_vector(0 downto 0);
 
 begin
 
@@ -34,7 +33,7 @@ begin
 			b_i => probe_b,
 			ci_i => probe_ci(0),
 			s_o => probe_s,
-			co_o => probe_o(0)
+			co_o => probe_co(0)
 		);
 	
 end;
