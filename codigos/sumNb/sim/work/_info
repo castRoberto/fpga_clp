@@ -1,0 +1,129 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/LSE/bimestre4/fpga/codigos/reg/sim
+Esum1b
+Z0 w1725690184
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/LSE/bimestre4/fpga/codigos/sumNb/sim
+Z4 8C:/LSE/bimestre4/fpga/codigos/sum1b/src/sum1b.vhd
+Z5 FC:/LSE/bimestre4/fpga/codigos/sum1b/src/sum1b.vhd
+l0
+L5
+V7i^9T1DGdj0LN1hcnfoD42
+!s100 EAI2A^YJJN`^_FdKg1mgA0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1726294907
+!i10b 1
+Z8 !s108 1726294907.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/LSE/bimestre4/fpga/codigos/sum1b/src/sum1b.vhd|
+Z10 !s107 C:/LSE/bimestre4/fpga/codigos/sum1b/src/sum1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asum1b_arq
+R1
+R2
+Z13 DEx4 work 5 sum1b 0 22 7i^9T1DGdj0LN1hcnfoD42
+l19
+L17
+Z14 VoVhoI[6Y7OCZaAzz1DSoU0
+Z15 !s100 4oXT0EXN409dUi2><mTKz1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esumnb
+Z16 w1726292227
+R1
+R2
+R3
+Z17 8C:/LSE/bimestre4/fpga/codigos/sumNb/src/sumNb.vhd
+Z18 FC:/LSE/bimestre4/fpga/codigos/sumNb/src/sumNb.vhd
+l0
+L5
+VmW>BIc4ed;ofAEZJNX<RC3
+!s100 0hW`<T;5g_c]EelGo>GQ10
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/LSE/bimestre4/fpga/codigos/sumNb/src/sumNb.vhd|
+Z20 !s107 C:/LSE/bimestre4/fpga/codigos/sumNb/src/sumNb.vhd|
+!i113 1
+R11
+R12
+Asumnb_arq
+R1
+R2
+DEx4 work 5 sumnb 0 22 mW>BIc4ed;ofAEZJNX<RC3
+l38
+L21
+VLjNFRNdVKO0<[fS]m65Dl2
+!s100 igc:6mAcW[3FH3i7@M7`C2
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Esumnb_tb
+Z21 w1726294883
+Z22 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z23 8C:/LSE/bimestre4/fpga/codigos/sumNb/src/sumNb_tb.vhd
+Z24 FC:/LSE/bimestre4/fpga/codigos/sumNb/src/sumNb_tb.vhd
+l0
+L6
+V5Ynk2B_[GLFS@XngW`:[h1
+!s100 8d>o`QnCYP10iSj2iRHdF3
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/LSE/bimestre4/fpga/codigos/sumNb/src/sumNb_tb.vhd|
+Z26 !s107 C:/LSE/bimestre4/fpga/codigos/sumNb/src/sumNb_tb.vhd|
+!i113 1
+R11
+R12
+Asumnb_tb_arq
+R22
+R1
+R2
+DEx4 work 8 sumnb_tb 0 22 5Ynk2B_[GLFS@XngW`:[h1
+l37
+L10
+V=LTGaFVYQ]WAIJLL<fYDm0
+!s100 G2`Sm]oNFn@IPMoaVDb@Z3
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12

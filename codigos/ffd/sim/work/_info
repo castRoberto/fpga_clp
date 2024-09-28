@@ -1,0 +1,107 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/LSE/bimestre4/fpga/codigos/sum1b/sim
+Effd
+Z0 w1726288961
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/LSE/bimestre4/fpga/codigos/ffd/sim
+Z4 8C:/LSE/bimestre4/fpga/codigos/ffd/src/ffd.vhd
+Z5 FC:/LSE/bimestre4/fpga/codigos/ffd/src/ffd.vhd
+l0
+L6
+VkhBCz_@fYD0Al1@I2if`E3
+!s100 e>7jkLYbz4fj2[;VO[j[63
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1726288966
+!i10b 1
+Z8 !s108 1726288966.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/LSE/bimestre4/fpga/codigos/ffd/src/ffd.vhd|
+Z10 !s107 C:/LSE/bimestre4/fpga/codigos/ffd/src/ffd.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Affd_arq
+R1
+R2
+Z13 DEx4 work 3 ffd 0 22 khBCz_@fYD0Al1@I2if`E3
+l21
+L18
+Z14 VVHX<`iEJFEgYCc]ao?QhY1
+Z15 !s100 5:^Coiz@JoL<zLW;nZ_oD1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Affd_arq_2
+R1
+R2
+R13
+l50
+L48
+VXAbEXFnm90=hcWOc4khV60
+!s100 [hfDBmjMF`TlXz]Yg15kZ3
+R6
+32
+Z16 !s110 1726288559
+!i10b 1
+Z17 !s108 1726288559.000000
+R9
+R10
+!i113 1
+R11
+R12
+Z18 w1726287346
+Effd_tb
+Z19 w1726288516
+R1
+R2
+R3
+Z20 8C:/LSE/bimestre4/fpga/codigos/ffd/src/ffd_tb.vhd
+Z21 FC:/LSE/bimestre4/fpga/codigos/ffd/src/ffd_tb.vhd
+l0
+L5
+V`nenBW0=WZN1eI>@z?iHE1
+!s100 3`TJBn^T>YfGSU0XI4hP52
+R6
+32
+Z22 !s110 1726288965
+!i10b 1
+Z23 !s108 1726288965.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/LSE/bimestre4/fpga/codigos/ffd/src/ffd_tb.vhd|
+Z25 !s107 C:/LSE/bimestre4/fpga/codigos/ffd/src/ffd_tb.vhd|
+!i113 1
+R11
+R12
+Affd_tb_arq
+R1
+R2
+DEx4 work 6 ffd_tb 0 22 `nenBW0=WZN1eI>@z?iHE1
+l30
+L9
+VGBfc4FXe7:i0QV:ESBI471
+!s100 <?]=Cfb51@kMB5bM?YB6M3
+R6
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R11
+R12

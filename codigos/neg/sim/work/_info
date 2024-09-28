@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/LSE/bimestre4/fpga/codigos/neg
+Eneg
+Z0 w1725688701
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/LSE/bimestre4/fpga/codigos/neg/sim
+Z4 8C:/LSE/bimestre4/fpga/codigos/neg/src/neg.vhd
+Z5 FC:/LSE/bimestre4/fpga/codigos/neg/src/neg.vhd
+l0
+L5
+VHchYd9ETNRoIa0mkIhWVU2
+!s100 7efXZgbaHQeeP;TCPXETi3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1725689594
+!i10b 1
+Z8 !s108 1725689594.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/LSE/bimestre4/fpga/codigos/neg/src/neg.vhd|
+Z10 !s107 C:/LSE/bimestre4/fpga/codigos/neg/src/neg.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aneg_arq
+R1
+R2
+DEx4 work 3 neg 0 22 HchYd9ETNRoIa0mkIhWVU2
+l16
+L14
+V:lXBE2Xi?74B?gAQiA@>c3
+!s100 2zzIiQV2a=ZH3m[_oYIXl3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eneg_tb
+Z13 w1725689537
+R1
+R2
+R3
+Z14 8C:/LSE/bimestre4/fpga/codigos/neg/src/neg_tb.vhd
+Z15 FC:/LSE/bimestre4/fpga/codigos/neg/src/neg_tb.vhd
+l0
+L5
+V?<eVoC9N?9_c6>>ElfPzF1
+!s100 ^d`3hHD_@zP3[zM=WL5=@2
+R6
+32
+Z16 !s110 1725689595
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/LSE/bimestre4/fpga/codigos/neg/src/neg_tb.vhd|
+Z18 !s107 C:/LSE/bimestre4/fpga/codigos/neg/src/neg_tb.vhd|
+!i113 1
+R11
+R12
+Aneg_tb_arq
+R1
+R2
+DEx4 work 6 neg_tb 0 22 ?<eVoC9N?9_c6>>ElfPzF1
+l22
+L9
+VW]FeG9_8`<H`;FAXWWELO0
+!s100 k8?P8H8:6P]MBI?0MAn^c1
+R6
+32
+R16
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
